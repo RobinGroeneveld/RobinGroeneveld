@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓Student in software development<br>🌱I’m currently learning Web development and native development<br>👨‍💻I’m currently working on a fun project😄<br>🎮Fan of open world games and souls like games<br>Fan of the Arctic monkeys🔥<br>👨 Dad Joke: If you are cold, stand in the corner because it is 90 degrees there
+🧑‍🎓Student in software development<br>🌱I’m currently learning Web development and native development<br>👨‍💻I’m currently working on a fun project😄<br>🎮Fan of open world games and souls like games<br>🎵Fan of the Arctic monkeys🔥<br>👨 Dad Joke: If you are cold, stand in the corner because it is 90 degrees there
 
 
 
