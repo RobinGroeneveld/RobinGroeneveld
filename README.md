@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br><br>🧑‍🎓Student in software development<br>🌱I’m currently learning Web development and native development<br>👨‍💻I’m currently working on a fun project😄<br>🎮Fan of open world games and souls like games
+<br>🧑‍🎓Student in software development<br>🌱I’m currently learning Web development and native development<br>👨‍💻I’m currently working on a fun project😄<br>🎮Fan of open world games and souls like games
 
 
 # 💻 Tech Stack:
